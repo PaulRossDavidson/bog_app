@@ -1,0 +1,2 @@
+class BogCreatureController < ApplicationController
+end
